@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+  width: 92.5%;
+  margin-left: 2.5%;
+  margin-right: 5%;
+}
+
+h1 {
+  font-family: 'Oswald';
+  font-size: 40px;
+}
+
+.rubrik {
+  margin-top: 5%;
+  font-size: 50px;
+  font-family: 'Rammetto One';
+  text-align: center;
+
+}
+
+h2 {
+  font-family: 'Oswald';
+}
+
+p {
+  width: 100%;
+  font-family: 'Open Sans';
+}
+
+nav {
+  width: 10%;
+  position: fixed;
+  float: left;
+  margin-top: 10%;
+  text-align: left;
+}
+
+/*nav a {
+  text-align: center;
+}*/
+
+main {
+  width: 83%;
+  height: 100%;
+  float: right;
+  margin: 0 50px;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  margin-bottom: 50px;
+  margin-left: 35px;
+  font-family: 'Open Sans';
+  color: black;
+}
+
+img {
+float: right;
+position: relative;
+margin: 20px;
+}
+
+#content11 {
+  margin-top: 6%;
+}
+
+#content9 {
+  margin-top: 10.5%;
+}
+
+#content4 {
+  margin-top: 10.5%;
+}
+
+.hover {
+  color: green;
+}
